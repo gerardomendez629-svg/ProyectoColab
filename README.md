@@ -26,6 +26,6 @@ SB-Admin/
 ├── assets/          Recursos gráficos e imágenes
 ├── css/             Hojas de estilo
 ├── js/              Scripts de interactividad y plugins
-├── index.html       Vista del Dashboard
+├── README.md        Documentación del proyecto
 ├── tables.html      Vista de Tablas
-└── README.md        Documentación del proyecto
+└── index.html       Vista del Dashboard
